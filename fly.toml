@@ -1,6 +1,6 @@
-# fly.toml app configuration file generated for god-of-wonders-fm on 2026-10-18T07:18:13Z
+# fly.toml app configuration file generated for god-of-wonders-fm on 2026-10-18T10:18:03Z
 #
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+# See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
 app = 'god-of-wonders-fm'
